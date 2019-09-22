@@ -26,7 +26,7 @@ use 'make' command to compile the Makefile
 make
 ```
 
-then try some input to test(you can sue any input to test)
+then try some input to test(you can use any input to test)
 
 ```
 ./yi 2
